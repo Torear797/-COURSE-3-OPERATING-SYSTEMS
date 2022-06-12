@@ -1,0 +1,7 @@
+﻿  dll1.cpp
+c:\users\тореар\yandexdisk\projects c#\os\lab1\dll1\dll1\dll1\dll1.cpp(24): warning C4996: 'GetVersionExW': объявлен deprecate
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note:  см. объявление "GetVersionExW"
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Тореар\YandexDisk\Projects C#\OS\Lab1\App\ConsolApp\Debug\dll1.lib и объект C:\Users\Тореар\YandexDisk\Projects C#\OS\Lab1\App\ConsolApp\Debug\dll1.exp
+  dll1.vcxproj -> C:\Users\Тореар\YandexDisk\Projects C#\OS\Lab1\App\ConsolApp\Debug\dll1.dll
