@@ -1,0 +1,23 @@
+#include <Windows.h>
+#include "resource.h"
+ 
+INT_PTR WINAPI DialogProc(HWND hWnd, UINT Msg, WPARAM wParam, LPARAM lParam)
+{
+    switch (Msg)
+    {
+        case WM_CLOSE:
+        {
+            EndDialog(hWnd, 0);
+        }
+        break;
+    }
+    return 0;
+}
+ 
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE NotUsed, LPSTR pCmdLine, int fShow)
+{
+    DialogBoxParamW(hInstance, MAKEINTRESOURCEW(IDD_FORMVIEW), NULL, DialogProc, NULL);
+    return EXIT_SUCCESS;
+}
+
+type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='x86' publicKeyToken='6595b64144ccf1df' language='*'
