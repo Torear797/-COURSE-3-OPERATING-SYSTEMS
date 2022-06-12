@@ -1,0 +1,19 @@
+﻿  SampleWin32.cpp
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(137): warning C4101: BufS3: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(137): warning C4101: BufS2: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(137): warning C4101: BufS: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(283): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note:  см. объявление "wcscpy"
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(290): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note:  см. объявление "wcscpy"
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(403): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note:  см. объявление "wcscpy"
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(404): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note:  см. объявление "wcscpy"
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(405): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note:  см. объявление "wcscpy"
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(406): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstring.h(123): note:  см. объявление "wcscpy"
+e:\programs\yandexdisk\projects c#\os\lab_2\lab_2\samplewin32.cpp(482): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(1446): note:  см. объявление "_swprintf"
+  lab_2.vcxproj -> E:\Programs\YandexDisk\Projects C#\OS\lab_2\Debug\lab_2.exe
