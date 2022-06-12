@@ -1,0 +1,7 @@
+﻿  APP3.cpp
+e:\programs\yandexdisk\projects c#\os\lab5\app3\app3.cpp(450): warning C4806: |: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+e:\programs\yandexdisk\projects c#\os\lab5\app3\app3.cpp(450): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+e:\programs\yandexdisk\projects c#\os\lab5\app3\app3.cpp(455): warning C4806: |: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+e:\programs\yandexdisk\projects c#\os\lab5\app3\app3.cpp(455): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+e:\programs\yandexdisk\projects c#\os\lab5\app3\app3.cpp(460): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  APP3.vcxproj -> E:\Programs\YandexDisk\Projects C#\OS\Lab5\Debug\APP3.exe

@@ -1,0 +1,5 @@
+﻿  APP4.cpp
+e:\programs\yandexdisk\projects c#\os\lab5\app4\app4.cpp(207): warning C4101: outdir2: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\os\lab5\app4\app4.cpp(352): warning C4101: wfd: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\os\lab5\app4\app4.cpp(353): warning C4101: hFindFile: неиспользованная локальная переменная
+  APP4.vcxproj -> E:\Programs\YandexDisk\Projects C#\OS\Lab5\Debug\APP4.exe
