@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\programs\yandexdisk\projects c#\os\lab4\lab4_1\lab4_2\source.cpp(262): warning C4101: lf: неиспользованная локальная переменная
+e:\programs\yandexdisk\projects c#\os\lab4\lab4_1\lab4_2\source.cpp(399): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+e:\programs\yandexdisk\projects c#\os\lab4\lab4_1\lab4_2\source.cpp(475): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+e:\programs\yandexdisk\projects c#\os\lab4\lab4_1\lab4_2\source.cpp(596): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab4_2.vcxproj -> E:\Programs\YandexDisk\Projects C#\OS\lab4\lab4_1\x64\Debug\lab4_2.exe
