@@ -1,0 +1,3 @@
+﻿  APP3_2.cpp
+e:\programs\yandexdisk\projects c#\os\os\app3_2\app3_2.cpp(224): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  APP3_2.vcxproj -> E:\Programs\YandexDisk\Projects C#\OS\OS\Debug\APP3_2.exe
